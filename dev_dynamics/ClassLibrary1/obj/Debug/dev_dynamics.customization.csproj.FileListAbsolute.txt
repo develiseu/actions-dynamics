@@ -1,0 +1,6 @@
+C:\Users\elise\source\repos\actions-dynamics\dev_dynamics\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\elise\source\repos\actions-dynamics\dev_dynamics\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\elise\source\repos\actions-dynamics\dev_dynamics\ClassLibrary1\obj\Debug\dev_dynamics.customization.csproj.AssemblyReference.cache
+C:\Users\elise\source\repos\actions-dynamics\dev_dynamics\ClassLibrary1\obj\Debug\dev_dynamics.customization.csproj.CoreCompileInputs.cache
+C:\Users\elise\source\repos\actions-dynamics\dev_dynamics\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\elise\source\repos\actions-dynamics\dev_dynamics\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
