@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repositorio-dev-dynamics", "repositorio-dev-dynamics\repositorio-dev-dynamics.csproj", "{BA82EA05-122A-43DB-89F2-312308428125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA82EA05-122A-43DB-89F2-312308428125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA82EA05-122A-43DB-89F2-312308428125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA82EA05-122A-43DB-89F2-312308428125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA82EA05-122A-43DB-89F2-312308428125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7084337-B399-4307-8D4B-044D2F46A2F3}
+	EndGlobalSection
+EndGlobal
